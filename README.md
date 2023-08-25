@@ -1,5 +1,3 @@
-Certainly, here's the updated README with the added information about the course:
-
 # SpaceCraft-PyOpenGL
 
 ![SpaceCraft-PyOpenGL Demo](https://github.com/ShakeefAhmedRakin/SpaceCraft-PyOpenGL/assets/112527326/25371ca3-8355-45e1-a32b-b7ebfa050086)
